@@ -1,0 +1,268 @@
+{
+  "bytes": 11636,
+  "count_of_rows": 83,
+  "hash": "f52c7100bac6b801380af2da9cf9dcba",
+  "name": "london-gva",
+  "profile": "data-package",
+  "resources": [
+    {
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/xls",
+      "name": "gva",
+      "path": "data/gva.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "NUTS level",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "NUTS code",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Area name",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "1997",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "1998",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "1999",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2000",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2001",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2002",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2003",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2004",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2005",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2006",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2007",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2008",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2009",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2010",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2011",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2012",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2013",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2014",
+            "type": "any"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/xls",
+      "name": "gva-per-capita",
+      "path": "data/gva-per-capita.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "NUTS level",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "NUTS code",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Region name",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "1997",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "1998",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "1999",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2000",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2001",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2002",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2003",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2004",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2005",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2006",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2007",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2008",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2009",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2010",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2011",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2012",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "2013",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "20143",
+            "type": "any"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ],
+  "title": "London gva"
+}
