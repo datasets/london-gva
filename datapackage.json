@@ -1,0 +1,108 @@
+{
+  "bytes": 63276,
+  "count_of_rows": 1584,
+  "hash": "122d38785a9da7fadd7956244ed4d1d1",
+  "name": "london-gva",
+  "profile": "data-package",
+  "resources": [
+    {
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/xls",
+      "name": "london-gva",
+      "path": "data/gva-london.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "NUTS level",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "NUTS code",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Area name",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Year",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "Value",
+            "type": "any"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    },
+    {
+      "dialect": {
+        "caseSensitiveHeader": false,
+        "delimiter": ",",
+        "doubleQuote": true,
+        "header": true,
+        "lineTerminator": "\r\n",
+        "quoteChar": "\"",
+        "skipInitialSpace": false
+      },
+      "encoding": "utf-8",
+      "format": "csv",
+      "mediatype": "text/xls",
+      "name": "gva",
+      "path": "data/gva.csv",
+      "profile": "tabular-data-resource",
+      "schema": {
+        "fields": [
+          {
+            "format": "default",
+            "name": "NUTS level",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "NUTS code",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Area name",
+            "type": "string"
+          },
+          {
+            "format": "default",
+            "name": "Year",
+            "type": "any"
+          },
+          {
+            "format": "default",
+            "name": "Value",
+            "type": "any"
+          }
+        ],
+        "missingValues": [
+          ""
+        ]
+      }
+    }
+  ],
+  "title": "London gva"
+}
