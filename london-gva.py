@@ -70,8 +70,6 @@ def london_gva(link):
              sheet=2),
         filter_gva,
         unpivot(unpivot_fields, extra_keys, extra_value),
-
-
         set_format_and_name,
         dump_to_path(),
         printer(num_rows=1)
