@@ -1,7 +1,7 @@
 {
-  "bytes": 29517,
+  "bytes": 33837,
   "count_of_rows": 720,
-  "hash": "f64427fed068ae3ebb1cfcfb748a066f",
+  "hash": "4acf03961e440f31080ccb57d6a03a61",
   "name": "gva",
   "profile": "data-package",
   "resources": [
@@ -39,9 +39,9 @@
             "type": "string"
           },
           {
-            "format": "default",
+            "format": "%Y-%m-%d",
             "name": "Year",
-            "type": "year"
+            "type": "date"
           },
           {
             "decimalChar": ".",

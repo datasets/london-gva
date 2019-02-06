@@ -1,721 +1,721 @@
 NUTS level,NUTS code,Region name,Year,Value
-NUTS1,UKI,London,1997,21293
-NUTS1,UKI,London,1998,22611
-NUTS1,UKI,London,1999,23459
-NUTS1,UKI,London,2000,25318
-NUTS1,UKI,London,2001,25812
-NUTS1,UKI,London,2002,26702
-NUTS1,UKI,London,2003,28290
-NUTS1,UKI,London,2004,29752
-NUTS1,UKI,London,2005,32007
-NUTS1,UKI,London,2006,33136
-NUTS1,UKI,London,2007,35389
-NUTS1,UKI,London,2008,36172
-NUTS1,UKI,London,2009,35577
-NUTS1,UKI,London,2010,36434
-NUTS1,UKI,London,2011,38249
-NUTS1,UKI,London,2012,39201
-NUTS1,UKI,London,2013,40516
-NUTS1,UKI,London,2014,42666
-NUTS2,UKI3,Inner London - West,1997,57479
-NUTS2,UKI3,Inner London - West,1998,61531
-NUTS2,UKI3,Inner London - West,1999,62809
-NUTS2,UKI3,Inner London - West,2000,67844
-NUTS2,UKI3,Inner London - West,2001,68829
-NUTS2,UKI3,Inner London - West,2002,70956
-NUTS2,UKI3,Inner London - West,2003,75556
-NUTS2,UKI3,Inner London - West,2004,80129
-NUTS2,UKI3,Inner London - West,2005,87395
-NUTS2,UKI3,Inner London - West,2006,91107
-NUTS2,UKI3,Inner London - West,2007,100298
-NUTS2,UKI3,Inner London - West,2008,104619
-NUTS2,UKI3,Inner London - West,2009,107460
-NUTS2,UKI3,Inner London - West,2010,111885
-NUTS2,UKI3,Inner London - West,2011,117131
-NUTS2,UKI3,Inner London - West,2012,120255
-NUTS2,UKI3,Inner London - West,2013,118051
-NUTS2,UKI3,Inner London - West,2014,123406
-NUTS3,UKI31,Camden and City of London,1997,120948
-NUTS3,UKI31,Camden and City of London,1998,128713
-NUTS3,UKI31,Camden and City of London,1999,128380
-NUTS3,UKI31,Camden and City of London,2000,139062
-NUTS3,UKI31,Camden and City of London,2001,139846
-NUTS3,UKI31,Camden and City of London,2002,146713
-NUTS3,UKI31,Camden and City of London,2003,160721
-NUTS3,UKI31,Camden and City of London,2004,173605
-NUTS3,UKI31,Camden and City of London,2005,195767
-NUTS3,UKI31,Camden and City of London,2006,207554
-NUTS3,UKI31,Camden and City of London,2007,231039
-NUTS3,UKI31,Camden and City of London,2008,234692
-NUTS3,UKI31,Camden and City of London,2009,247730
-NUTS3,UKI31,Camden and City of London,2010,256898
-NUTS3,UKI31,Camden and City of London,2011,266224
-NUTS3,UKI31,Camden and City of London,2012,265387
-NUTS3,UKI31,Camden and City of London,2013,255906
-NUTS3,UKI31,Camden and City of London,2014,263789
-NUTS3,UKI32,Westminster,1997,104531
-NUTS3,UKI32,Westminster,1998,112165
-NUTS3,UKI32,Westminster,1999,115282
-NUTS3,UKI32,Westminster,2000,122979
-NUTS3,UKI32,Westminster,2001,124865
-NUTS3,UKI32,Westminster,2002,126475
-NUTS3,UKI32,Westminster,2003,132010
-NUTS3,UKI32,Westminster,2004,136785
-NUTS3,UKI32,Westminster,2005,143419
-NUTS3,UKI32,Westminster,2006,148301
-NUTS3,UKI32,Westminster,2007,163334
-NUTS3,UKI32,Westminster,2008,177671
-NUTS3,UKI32,Westminster,2009,183802
-NUTS3,UKI32,Westminster,2010,190519
-NUTS3,UKI32,Westminster,2011,199377
-NUTS3,UKI32,Westminster,2012,203079
-NUTS3,UKI32,Westminster,2013,202737
-NUTS3,UKI32,Westminster,2014,208475
-NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,1997,25102
-NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,1998,27518
-NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,1999,28355
-NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2000,30299
-NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2001,30668
-NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2002,31395
-NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2003,32805
-NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2004,34296
-NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2005,36284
-NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2006,37336
-NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2007,40729
-NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2008,43108
-NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2009,41909
-NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2010,44987
-NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2011,46967
-NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2012,49696
-NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2013,47314
-NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2014,50018
-NUTS3,UKI34,Wandsworth,1997,14850
-NUTS3,UKI34,Wandsworth,1998,15803
-NUTS3,UKI34,Wandsworth,1999,16646
-NUTS3,UKI34,Wandsworth,2000,18068
-NUTS3,UKI34,Wandsworth,2001,18601
-NUTS3,UKI34,Wandsworth,2002,19040
-NUTS3,UKI34,Wandsworth,2003,19506
-NUTS3,UKI34,Wandsworth,2004,20121
-NUTS3,UKI34,Wandsworth,2005,21417
-NUTS3,UKI34,Wandsworth,2006,21948
-NUTS3,UKI34,Wandsworth,2007,23644
-NUTS3,UKI34,Wandsworth,2008,25115
-NUTS3,UKI34,Wandsworth,2009,23743
-NUTS3,UKI34,Wandsworth,2010,24488
-NUTS3,UKI34,Wandsworth,2011,25898
-NUTS3,UKI34,Wandsworth,2012,27490
-NUTS3,UKI34,Wandsworth,2013,26955
-NUTS3,UKI34,Wandsworth,2014,29232
-NUTS2,UKI4,Inner London - East,1997,21824
-NUTS2,UKI4,Inner London - East,1998,22591
-NUTS2,UKI4,Inner London - East,1999,23264
-NUTS2,UKI4,Inner London - East,2000,25517
-NUTS2,UKI4,Inner London - East,2001,26174
-NUTS2,UKI4,Inner London - East,2002,26898
-NUTS2,UKI4,Inner London - East,2003,28704
-NUTS2,UKI4,Inner London - East,2004,30565
-NUTS2,UKI4,Inner London - East,2005,33473
-NUTS2,UKI4,Inner London - East,2006,34443
-NUTS2,UKI4,Inner London - East,2007,36870
-NUTS2,UKI4,Inner London - East,2008,37067
-NUTS2,UKI4,Inner London - East,2009,36227
-NUTS2,UKI4,Inner London - East,2010,36314
-NUTS2,UKI4,Inner London - East,2011,39213
-NUTS2,UKI4,Inner London - East,2012,39409
-NUTS2,UKI4,Inner London - East,2013,44156
-NUTS2,UKI4,Inner London - East,2014,46793
-NUTS3,UKI41,Hackney and Newham,1997,13901
-NUTS3,UKI41,Hackney and Newham,1998,14363
-NUTS3,UKI41,Hackney and Newham,1999,14720
-NUTS3,UKI41,Hackney and Newham,2000,15947
-NUTS3,UKI41,Hackney and Newham,2001,16337
-NUTS3,UKI41,Hackney and Newham,2002,16581
-NUTS3,UKI41,Hackney and Newham,2003,17317
-NUTS3,UKI41,Hackney and Newham,2004,18219
-NUTS3,UKI41,Hackney and Newham,2005,19630
-NUTS3,UKI41,Hackney and Newham,2006,20103
-NUTS3,UKI41,Hackney and Newham,2007,21139
-NUTS3,UKI41,Hackney and Newham,2008,20556
-NUTS3,UKI41,Hackney and Newham,2009,20607
-NUTS3,UKI41,Hackney and Newham,2010,20721
-NUTS3,UKI41,Hackney and Newham,2011,22114
-NUTS3,UKI41,Hackney and Newham,2012,23020
-NUTS3,UKI41,Hackney and Newham,2013,25164
-NUTS3,UKI41,Hackney and Newham,2014,26391
-NUTS3,UKI42,Tower Hamlets,1997,54752
-NUTS3,UKI42,Tower Hamlets,1998,54837
-NUTS3,UKI42,Tower Hamlets,1999,54670
-NUTS3,UKI42,Tower Hamlets,2000,59921
-NUTS3,UKI42,Tower Hamlets,2001,60421
-NUTS3,UKI42,Tower Hamlets,2002,61727
-NUTS3,UKI42,Tower Hamlets,2003,67405
-NUTS3,UKI42,Tower Hamlets,2004,74349
-NUTS3,UKI42,Tower Hamlets,2005,85527
-NUTS3,UKI42,Tower Hamlets,2006,89319
-NUTS3,UKI42,Tower Hamlets,2007,96648
-NUTS3,UKI42,Tower Hamlets,2008,90628
-NUTS3,UKI42,Tower Hamlets,2009,91183
-NUTS3,UKI42,Tower Hamlets,2010,86819
-NUTS3,UKI42,Tower Hamlets,2011,100349
-NUTS3,UKI42,Tower Hamlets,2012,96833
-NUTS3,UKI42,Tower Hamlets,2013,114303
-NUTS3,UKI42,Tower Hamlets,2014,125570
-NUTS3,UKI43,Haringey and Islington,1997,24513
-NUTS3,UKI43,Haringey and Islington,1998,25801
-NUTS3,UKI43,Haringey and Islington,1999,27179
-NUTS3,UKI43,Haringey and Islington,2000,29933
-NUTS3,UKI43,Haringey and Islington,2001,30882
-NUTS3,UKI43,Haringey and Islington,2002,31572
-NUTS3,UKI43,Haringey and Islington,2003,33403
-NUTS3,UKI43,Haringey and Islington,2004,35130
-NUTS3,UKI43,Haringey and Islington,2005,37822
-NUTS3,UKI43,Haringey and Islington,2006,38464
-NUTS3,UKI43,Haringey and Islington,2007,41034
-NUTS3,UKI43,Haringey and Islington,2008,42557
-NUTS3,UKI43,Haringey and Islington,2009,40061
-NUTS3,UKI43,Haringey and Islington,2010,40495
-NUTS3,UKI43,Haringey and Islington,2011,41542
-NUTS3,UKI43,Haringey and Islington,2012,41862
-NUTS3,UKI43,Haringey and Islington,2013,46156
-NUTS3,UKI43,Haringey and Islington,2014,47760
-NUTS3,UKI44,Lewisham and Southwark,1997,17384
-NUTS3,UKI44,Lewisham and Southwark,1998,18257
-NUTS3,UKI44,Lewisham and Southwark,1999,18922
-NUTS3,UKI44,Lewisham and Southwark,2000,20822
-NUTS3,UKI44,Lewisham and Southwark,2001,21477
-NUTS3,UKI44,Lewisham and Southwark,2002,22202
-NUTS3,UKI44,Lewisham and Southwark,2003,23592
-NUTS3,UKI44,Lewisham and Southwark,2004,24591
-NUTS3,UKI44,Lewisham and Southwark,2005,26377
-NUTS3,UKI44,Lewisham and Southwark,2006,26987
-NUTS3,UKI44,Lewisham and Southwark,2007,28601
-NUTS3,UKI44,Lewisham and Southwark,2008,29517
-NUTS3,UKI44,Lewisham and Southwark,2009,28271
-NUTS3,UKI44,Lewisham and Southwark,2010,30139
-NUTS3,UKI44,Lewisham and Southwark,2011,31925
-NUTS3,UKI44,Lewisham and Southwark,2012,32498
-NUTS3,UKI44,Lewisham and Southwark,2013,34747
-NUTS3,UKI44,Lewisham and Southwark,2014,35973
-NUTS3,UKI45,Lambeth,1997,15495
-NUTS3,UKI45,Lambeth,1998,16263
-NUTS3,UKI45,Lambeth,1999,16887
-NUTS3,UKI45,Lambeth,2000,18581
-NUTS3,UKI45,Lambeth,2001,19293
-NUTS3,UKI45,Lambeth,2002,19952
-NUTS3,UKI45,Lambeth,2003,21160
-NUTS3,UKI45,Lambeth,2004,22244
-NUTS3,UKI45,Lambeth,2005,23658
-NUTS3,UKI45,Lambeth,2006,24133
-NUTS3,UKI45,Lambeth,2007,25982
-NUTS3,UKI45,Lambeth,2008,28996
-NUTS3,UKI45,Lambeth,2009,28167
-NUTS3,UKI45,Lambeth,2010,27663
-NUTS3,UKI45,Lambeth,2011,29130
-NUTS3,UKI45,Lambeth,2012,29730
-NUTS3,UKI45,Lambeth,2013,32488
-NUTS3,UKI45,Lambeth,2014,32878
-NUTS2,UKI5,Outer London - East and North East,1997,10817
-NUTS2,UKI5,Outer London - East and North East,1998,11461
-NUTS2,UKI5,Outer London - East and North East,1999,11893
-NUTS2,UKI5,Outer London - East and North East,2000,12463
-NUTS2,UKI5,Outer London - East and North East,2001,12688
-NUTS2,UKI5,Outer London - East and North East,2002,13099
-NUTS2,UKI5,Outer London - East and North East,2003,13672
-NUTS2,UKI5,Outer London - East and North East,2004,14160
-NUTS2,UKI5,Outer London - East and North East,2005,14780
-NUTS2,UKI5,Outer London - East and North East,2006,15483
-NUTS2,UKI5,Outer London - East and North East,2007,15983
-NUTS2,UKI5,Outer London - East and North East,2008,16331
-NUTS2,UKI5,Outer London - East and North East,2009,15520
-NUTS2,UKI5,Outer London - East and North East,2010,16015
-NUTS2,UKI5,Outer London - East and North East,2011,16541
-NUTS2,UKI5,Outer London - East and North East,2012,17331
-NUTS2,UKI5,Outer London - East and North East,2013,17769
-NUTS2,UKI5,Outer London - East and North East,2014,18669
-NUTS3,UKI51,Bexley and Greenwich,1997,10631
-NUTS3,UKI51,Bexley and Greenwich,1998,11289
-NUTS3,UKI51,Bexley and Greenwich,1999,11770
-NUTS3,UKI51,Bexley and Greenwich,2000,12410
-NUTS3,UKI51,Bexley and Greenwich,2001,12590
-NUTS3,UKI51,Bexley and Greenwich,2002,12983
-NUTS3,UKI51,Bexley and Greenwich,2003,13532
-NUTS3,UKI51,Bexley and Greenwich,2004,13951
-NUTS3,UKI51,Bexley and Greenwich,2005,14511
-NUTS3,UKI51,Bexley and Greenwich,2006,15234
-NUTS3,UKI51,Bexley and Greenwich,2007,15792
-NUTS3,UKI51,Bexley and Greenwich,2008,16134
-NUTS3,UKI51,Bexley and Greenwich,2009,15670
-NUTS3,UKI51,Bexley and Greenwich,2010,15985
-NUTS3,UKI51,Bexley and Greenwich,2011,16423
-NUTS3,UKI51,Bexley and Greenwich,2012,17102
-NUTS3,UKI51,Bexley and Greenwich,2013,17572
-NUTS3,UKI51,Bexley and Greenwich,2014,18068
-NUTS3,UKI52,Barking & Dagenham and Havering,1997,11520
-NUTS3,UKI52,Barking & Dagenham and Havering,1998,12159
-NUTS3,UKI52,Barking & Dagenham and Havering,1999,12545
-NUTS3,UKI52,Barking & Dagenham and Havering,2000,13020
-NUTS3,UKI52,Barking & Dagenham and Havering,2001,13287
-NUTS3,UKI52,Barking & Dagenham and Havering,2002,13641
-NUTS3,UKI52,Barking & Dagenham and Havering,2003,14210
-NUTS3,UKI52,Barking & Dagenham and Havering,2004,14743
-NUTS3,UKI52,Barking & Dagenham and Havering,2005,15479
-NUTS3,UKI52,Barking & Dagenham and Havering,2006,16250
-NUTS3,UKI52,Barking & Dagenham and Havering,2007,16765
-NUTS3,UKI52,Barking & Dagenham and Havering,2008,17441
-NUTS3,UKI52,Barking & Dagenham and Havering,2009,16596
-NUTS3,UKI52,Barking & Dagenham and Havering,2010,17530
-NUTS3,UKI52,Barking & Dagenham and Havering,2011,18072
-NUTS3,UKI52,Barking & Dagenham and Havering,2012,18736
-NUTS3,UKI52,Barking & Dagenham and Havering,2013,19135
-NUTS3,UKI52,Barking & Dagenham and Havering,2014,20027
-NUTS3,UKI53,Redbridge and Waltham Forest,1997,9032
-NUTS3,UKI53,Redbridge and Waltham Forest,1998,9555
-NUTS3,UKI53,Redbridge and Waltham Forest,1999,9982
-NUTS3,UKI53,Redbridge and Waltham Forest,2000,10504
-NUTS3,UKI53,Redbridge and Waltham Forest,2001,10665
-NUTS3,UKI53,Redbridge and Waltham Forest,2002,11034
-NUTS3,UKI53,Redbridge and Waltham Forest,2003,11540
-NUTS3,UKI53,Redbridge and Waltham Forest,2004,11950
-NUTS3,UKI53,Redbridge and Waltham Forest,2005,12450
-NUTS3,UKI53,Redbridge and Waltham Forest,2006,12975
-NUTS3,UKI53,Redbridge and Waltham Forest,2007,13317
-NUTS3,UKI53,Redbridge and Waltham Forest,2008,13530
-NUTS3,UKI53,Redbridge and Waltham Forest,2009,12567
-NUTS3,UKI53,Redbridge and Waltham Forest,2010,12806
-NUTS3,UKI53,Redbridge and Waltham Forest,2011,13431
-NUTS3,UKI53,Redbridge and Waltham Forest,2012,14244
-NUTS3,UKI53,Redbridge and Waltham Forest,2013,14858
-NUTS3,UKI53,Redbridge and Waltham Forest,2014,15833
-NUTS3,UKI54,Enfield,1997,13130
-NUTS3,UKI54,Enfield,1998,13984
-NUTS3,UKI54,Enfield,1999,14378
-NUTS3,UKI54,Enfield,2000,15044
-NUTS3,UKI54,Enfield,2001,15386
-NUTS3,UKI54,Enfield,2002,15969
-NUTS3,UKI54,Enfield,2003,16712
-NUTS3,UKI54,Enfield,2004,17393
-NUTS3,UKI54,Enfield,2005,18153
-NUTS3,UKI54,Enfield,2006,19066
-NUTS3,UKI54,Enfield,2007,19745
-NUTS3,UKI54,Enfield,2008,19911
-NUTS3,UKI54,Enfield,2009,18893
-NUTS3,UKI54,Enfield,2010,19518
-NUTS3,UKI54,Enfield,2011,20011
-NUTS3,UKI54,Enfield,2012,21109
-NUTS3,UKI54,Enfield,2013,21250
-NUTS3,UKI54,Enfield,2014,22651
-NUTS2,UKI6,Outer London - South,1997,12923
-NUTS2,UKI6,Outer London - South,1998,13918
-NUTS2,UKI6,Outer London - South,1999,14567
-NUTS2,UKI6,Outer London - South,2000,15359
-NUTS2,UKI6,Outer London - South,2001,15514
-NUTS2,UKI6,Outer London - South,2002,16272
-NUTS2,UKI6,Outer London - South,2003,17200
-NUTS2,UKI6,Outer London - South,2004,17869
-NUTS2,UKI6,Outer London - South,2005,18611
-NUTS2,UKI6,Outer London - South,2006,19575
-NUTS2,UKI6,Outer London - South,2007,20487
-NUTS2,UKI6,Outer London - South,2008,20593
-NUTS2,UKI6,Outer London - South,2009,19412
-NUTS2,UKI6,Outer London - South,2010,19884
-NUTS2,UKI6,Outer London - South,2011,20195
-NUTS2,UKI6,Outer London - South,2012,20780
-NUTS2,UKI6,Outer London - South,2013,20999
-NUTS2,UKI6,Outer London - South,2014,22559
-NUTS3,UKI61,Bromley,1997,13101
-NUTS3,UKI61,Bromley,1998,14235
-NUTS3,UKI61,Bromley,1999,14777
-NUTS3,UKI61,Bromley,2000,15570
-NUTS3,UKI61,Bromley,2001,15921
-NUTS3,UKI61,Bromley,2002,16675
-NUTS3,UKI61,Bromley,2003,17636
-NUTS3,UKI61,Bromley,2004,18405
-NUTS3,UKI61,Bromley,2005,19185
-NUTS3,UKI61,Bromley,2006,20237
-NUTS3,UKI61,Bromley,2007,21152
-NUTS3,UKI61,Bromley,2008,19589
-NUTS3,UKI61,Bromley,2009,19083
-NUTS3,UKI61,Bromley,2010,19001
-NUTS3,UKI61,Bromley,2011,19212
-NUTS3,UKI61,Bromley,2012,20027
-NUTS3,UKI61,Bromley,2013,20199
-NUTS3,UKI61,Bromley,2014,21867
-NUTS3,UKI62,Croydon,1997,12804
-NUTS3,UKI62,Croydon,1998,13710
-NUTS3,UKI62,Croydon,1999,14424
-NUTS3,UKI62,Croydon,2000,15150
-NUTS3,UKI62,Croydon,2001,15333
-NUTS3,UKI62,Croydon,2002,16185
-NUTS3,UKI62,Croydon,2003,17157
-NUTS3,UKI62,Croydon,2004,17831
-NUTS3,UKI62,Croydon,2005,18625
-NUTS3,UKI62,Croydon,2006,19654
-NUTS3,UKI62,Croydon,2007,20541
-NUTS3,UKI62,Croydon,2008,20653
-NUTS3,UKI62,Croydon,2009,18752
-NUTS3,UKI62,Croydon,2010,18715
-NUTS3,UKI62,Croydon,2011,18236
-NUTS3,UKI62,Croydon,2012,18273
-NUTS3,UKI62,Croydon,2013,18232
-NUTS3,UKI62,Croydon,2014,19931
-NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",1997,12897
-NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",1998,13873
-NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",1999,14538
-NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2000,15372
-NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2001,15399
-NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2002,16099
-NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2003,16978
-NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2004,17587
-NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2005,18276
-NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2006,19149
-NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2007,20075
-NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2008,21124
-NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2009,20025
-NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2010,21148
-NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2011,22041
-NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2012,22856
-NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2013,23270
-NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2014,24677
-NUTS2,UKI7,Outer London - West and North West,1997,15860
-NUTS2,UKI7,Outer London - West and North West,1998,17120
-NUTS2,UKI7,Outer London - West and North West,1999,18023
-NUTS2,UKI7,Outer London - West and North West,2000,19030
-NUTS2,UKI7,Outer London - West and North West,2001,18952
-NUTS2,UKI7,Outer London - West and North West,2002,19615
-NUTS2,UKI7,Outer London - West and North West,2003,20469
-NUTS2,UKI7,Outer London - West and North West,2004,20930
-NUTS2,UKI7,Outer London - West and North West,2005,21658
-NUTS2,UKI7,Outer London - West and North West,2006,22167
-NUTS2,UKI7,Outer London - West and North West,2007,22948
-NUTS2,UKI7,Outer London - West and North West,2008,23712
-NUTS2,UKI7,Outer London - West and North West,2009,22295
-NUTS2,UKI7,Outer London - West and North West,2010,23006
-NUTS2,UKI7,Outer London - West and North West,2011,24051
-NUTS2,UKI7,Outer London - West and North West,2012,25326
-NUTS2,UKI7,Outer London - West and North West,2013,26429
-NUTS2,UKI7,Outer London - West and North West,2014,27726
-NUTS3,UKI71,Barnet,1997,11893
-NUTS3,UKI71,Barnet,1998,12755
-NUTS3,UKI71,Barnet,1999,13324
-NUTS3,UKI71,Barnet,2000,14143
-NUTS3,UKI71,Barnet,2001,14074
-NUTS3,UKI71,Barnet,2002,14755
-NUTS3,UKI71,Barnet,2003,15485
-NUTS3,UKI71,Barnet,2004,15885
-NUTS3,UKI71,Barnet,2005,16439
-NUTS3,UKI71,Barnet,2006,17065
-NUTS3,UKI71,Barnet,2007,17754
-NUTS3,UKI71,Barnet,2008,18713
-NUTS3,UKI71,Barnet,2009,18557
-NUTS3,UKI71,Barnet,2010,19097
-NUTS3,UKI71,Barnet,2011,19950
-NUTS3,UKI71,Barnet,2012,20238
-NUTS3,UKI71,Barnet,2013,20401
-NUTS3,UKI71,Barnet,2014,21659
-NUTS3,UKI72,Brent,1997,13968
-NUTS3,UKI72,Brent,1998,14680
-NUTS3,UKI72,Brent,1999,15459
-NUTS3,UKI72,Brent,2000,16271
-NUTS3,UKI72,Brent,2001,16022
-NUTS3,UKI72,Brent,2002,16565
-NUTS3,UKI72,Brent,2003,17046
-NUTS3,UKI72,Brent,2004,17508
-NUTS3,UKI72,Brent,2005,18614
-NUTS3,UKI72,Brent,2006,18735
-NUTS3,UKI72,Brent,2007,19097
-NUTS3,UKI72,Brent,2008,19681
-NUTS3,UKI72,Brent,2009,18673
-NUTS3,UKI72,Brent,2010,19362
-NUTS3,UKI72,Brent,2011,20199
-NUTS3,UKI72,Brent,2012,21948
-NUTS3,UKI72,Brent,2013,22414
-NUTS3,UKI72,Brent,2014,23144
-NUTS3,UKI73,Ealing,1997,14540
-NUTS3,UKI73,Ealing,1998,15613
-NUTS3,UKI73,Ealing,1999,16282
-NUTS3,UKI73,Ealing,2000,17034
-NUTS3,UKI73,Ealing,2001,16969
-NUTS3,UKI73,Ealing,2002,17402
-NUTS3,UKI73,Ealing,2003,18125
-NUTS3,UKI73,Ealing,2004,18494
-NUTS3,UKI73,Ealing,2005,19115
-NUTS3,UKI73,Ealing,2006,19630
-NUTS3,UKI73,Ealing,2007,20297
-NUTS3,UKI73,Ealing,2008,20311
-NUTS3,UKI73,Ealing,2009,18781
-NUTS3,UKI73,Ealing,2010,19558
-NUTS3,UKI73,Ealing,2011,21661
-NUTS3,UKI73,Ealing,2012,22702
-NUTS3,UKI73,Ealing,2013,23519
-NUTS3,UKI73,Ealing,2014,25416
-NUTS3,UKI74,Harrow and Hillingdon,1997,19471
-NUTS3,UKI74,Harrow and Hillingdon,1998,21170
-NUTS3,UKI74,Harrow and Hillingdon,1999,22384
-NUTS3,UKI74,Harrow and Hillingdon,2000,23540
-NUTS3,UKI74,Harrow and Hillingdon,2001,23653
-NUTS3,UKI74,Harrow and Hillingdon,2002,24347
-NUTS3,UKI74,Harrow and Hillingdon,2003,25466
-NUTS3,UKI74,Harrow and Hillingdon,2004,26029
-NUTS3,UKI74,Harrow and Hillingdon,2005,26804
-NUTS3,UKI74,Harrow and Hillingdon,2006,27293
-NUTS3,UKI74,Harrow and Hillingdon,2007,28230
-NUTS3,UKI74,Harrow and Hillingdon,2008,28539
-NUTS3,UKI74,Harrow and Hillingdon,2009,26479
-NUTS3,UKI74,Harrow and Hillingdon,2010,27193
-NUTS3,UKI74,Harrow and Hillingdon,2011,27545
-NUTS3,UKI74,Harrow and Hillingdon,2012,28829
-NUTS3,UKI74,Harrow and Hillingdon,2013,30393
-NUTS3,UKI74,Harrow and Hillingdon,2014,31686
-NUTS3,UKI75,Hounslow and Richmond upon Thames,1997,17056
-NUTS3,UKI75,Hounslow and Richmond upon Thames,1998,18696
-NUTS3,UKI75,Hounslow and Richmond upon Thames,1999,19811
-NUTS3,UKI75,Hounslow and Richmond upon Thames,2000,21170
-NUTS3,UKI75,Hounslow and Richmond upon Thames,2001,21042
-NUTS3,UKI75,Hounslow and Richmond upon Thames,2002,21885
-NUTS3,UKI75,Hounslow and Richmond upon Thames,2003,22848
-NUTS3,UKI75,Hounslow and Richmond upon Thames,2004,23279
-NUTS3,UKI75,Hounslow and Richmond upon Thames,2005,23872
-NUTS3,UKI75,Hounslow and Richmond upon Thames,2006,24570
-NUTS3,UKI75,Hounslow and Richmond upon Thames,2007,25644
-NUTS3,UKI75,Hounslow and Richmond upon Thames,2008,27520
-NUTS3,UKI75,Hounslow and Richmond upon Thames,2009,25670
-NUTS3,UKI75,Hounslow and Richmond upon Thames,2010,26483
-NUTS3,UKI75,Hounslow and Richmond upon Thames,2011,27842
-NUTS3,UKI75,Hounslow and Richmond upon Thames,2012,29726
-NUTS3,UKI75,Hounslow and Richmond upon Thames,2013,31704
-NUTS3,UKI75,Hounslow and Richmond upon Thames,2014,32955
-NUTS1,UKC,North East,1997,9734
-NUTS1,UKC,North East,1998,10091
-NUTS1,UKC,North East,1999,10478
-NUTS1,UKC,North East,2000,10849
-NUTS1,UKC,North East,2001,11376
-NUTS1,UKC,North East,2002,12214
-NUTS1,UKC,North East,2003,13055
-NUTS1,UKC,North East,2004,14134
-NUTS1,UKC,North East,2005,14900
-NUTS1,UKC,North East,2006,15722
-NUTS1,UKC,North East,2007,16159
-NUTS1,UKC,North East,2008,16461
-NUTS1,UKC,North East,2009,16082
-NUTS1,UKC,North East,2010,16453
-NUTS1,UKC,North East,2011,16866
-NUTS1,UKC,North East,2012,17225
-NUTS1,UKC,North East,2013,17697
-NUTS1,UKC,North East,2014,18216
-NUTS1,UKD,North West,1997,11401
-NUTS1,UKD,North West,1998,12034
-NUTS1,UKD,North West,1999,12581
-NUTS1,UKD,North West,2000,12821
-NUTS1,UKD,North West,2001,13626
-NUTS1,UKD,North West,2002,14467
-NUTS1,UKD,North West,2003,15277
-NUTS1,UKD,North West,2004,16224
-NUTS1,UKD,North West,2005,16845
-NUTS1,UKD,North West,2006,17935
-NUTS1,UKD,North West,2007,18662
-NUTS1,UKD,North West,2008,18929
-NUTS1,UKD,North West,2009,18788
-NUTS1,UKD,North West,2010,19218
-NUTS1,UKD,North West,2011,19036
-NUTS1,UKD,North West,2012,19627
-NUTS1,UKD,North West,2013,20455
-NUTS1,UKD,North West,2014,21011
-NUTS1,UKE,Yorkshire and The Humber,1997,11320
-NUTS1,UKE,Yorkshire and The Humber,1998,11839
-NUTS1,UKE,Yorkshire and The Humber,1999,11985
-NUTS1,UKE,Yorkshire and The Humber,2000,12473
-NUTS1,UKE,Yorkshire and The Humber,2001,12948
-NUTS1,UKE,Yorkshire and The Humber,2002,13905
-NUTS1,UKE,Yorkshire and The Humber,2003,14899
-NUTS1,UKE,Yorkshire and The Humber,2004,15785
-NUTS1,UKE,Yorkshire and The Humber,2005,16439
-NUTS1,UKE,Yorkshire and The Humber,2006,17217
-NUTS1,UKE,Yorkshire and The Humber,2007,18212
-NUTS1,UKE,Yorkshire and The Humber,2008,18303
-NUTS1,UKE,Yorkshire and The Humber,2009,18161
-NUTS1,UKE,Yorkshire and The Humber,2010,18296
-NUTS1,UKE,Yorkshire and The Humber,2011,18567
-NUTS1,UKE,Yorkshire and The Humber,2012,18841
-NUTS1,UKE,Yorkshire and The Humber,2013,19314
-NUTS1,UKE,Yorkshire and The Humber,2014,19863
-NUTS1,UKF,East Midlands,1997,11985
-NUTS1,UKF,East Midlands,1998,12300
-NUTS1,UKF,East Midlands,1999,12466
-NUTS1,UKF,East Midlands,2000,12900
-NUTS1,UKF,East Midlands,2001,13414
-NUTS1,UKF,East Midlands,2002,13956
-NUTS1,UKF,East Midlands,2003,14850
-NUTS1,UKF,East Midlands,2004,15391
-NUTS1,UKF,East Midlands,2005,16291
-NUTS1,UKF,East Midlands,2006,17096
-NUTS1,UKF,East Midlands,2007,17866
-NUTS1,UKF,East Midlands,2008,18115
-NUTS1,UKF,East Midlands,2009,17504
-NUTS1,UKF,East Midlands,2010,18329
-NUTS1,UKF,East Midlands,2011,18764
-NUTS1,UKF,East Midlands,2012,19087
-NUTS1,UKF,East Midlands,2013,19902
-NUTS1,UKF,East Midlands,2014,20524
-NUTS1,UKG,West Midlands,1997,12011
-NUTS1,UKG,West Midlands,1998,12663
-NUTS1,UKG,West Midlands,1999,13215
-NUTS1,UKG,West Midlands,2000,13490
-NUTS1,UKG,West Midlands,2001,13878
-NUTS1,UKG,West Midlands,2002,14461
-NUTS1,UKG,West Midlands,2003,15179
-NUTS1,UKG,West Midlands,2004,15996
-NUTS1,UKG,West Midlands,2005,16596
-NUTS1,UKG,West Midlands,2006,17329
-NUTS1,UKG,West Midlands,2007,17826
-NUTS1,UKG,West Midlands,2008,17936
-NUTS1,UKG,West Midlands,2009,17241
-NUTS1,UKG,West Midlands,2010,17951
-NUTS1,UKG,West Midlands,2011,18404
-NUTS1,UKG,West Midlands,2012,18960
-NUTS1,UKG,West Midlands,2013,19630
-NUTS1,UKG,West Midlands,2014,20086
-NUTS1,UKH,East of England,1997,13285
-NUTS1,UKH,East of England,1998,13856
-NUTS1,UKH,East of England,1999,14178
-NUTS1,UKH,East of England,2000,15086
-NUTS1,UKH,East of England,2001,15731
-NUTS1,UKH,East of England,2002,16414
-NUTS1,UKH,East of England,2003,17539
-NUTS1,UKH,East of England,2004,18060
-NUTS1,UKH,East of England,2005,18830
-NUTS1,UKH,East of England,2006,19870
-NUTS1,UKH,East of England,2007,20467
-NUTS1,UKH,East of England,2008,21067
-NUTS1,UKH,East of England,2009,20369
-NUTS1,UKH,East of England,2010,20873
-NUTS1,UKH,East of England,2011,21090
-NUTS1,UKH,East of England,2012,21528
-NUTS1,UKH,East of England,2013,22137
-NUTS1,UKH,East of England,2014,23063
-NUTS1,UKJ,South East,1997,14698
-NUTS1,UKJ,South East,1998,15580
-NUTS1,UKJ,South East,1999,16256
-NUTS1,UKJ,South East,2000,17152
-NUTS1,UKJ,South East,2001,17892
-NUTS1,UKJ,South East,2002,18969
-NUTS1,UKJ,South East,2003,19750
-NUTS1,UKJ,South East,2004,20231
-NUTS1,UKJ,South East,2005,21089
-NUTS1,UKJ,South East,2006,21981
-NUTS1,UKJ,South East,2007,22953
-NUTS1,UKJ,South East,2008,23539
-NUTS1,UKJ,South East,2009,23032
-NUTS1,UKJ,South East,2010,23972
-NUTS1,UKJ,South East,2011,24410
-NUTS1,UKJ,South East,2012,25396
-NUTS1,UKJ,South East,2013,26276
-NUTS1,UKJ,South East,2014,27012
-NUTS1,UKK,South West,1997,12350
-NUTS1,UKK,South West,1998,12680
-NUTS1,UKK,South West,1999,13113
-NUTS1,UKK,South West,2000,13795
-NUTS1,UKK,South West,2001,14469
-NUTS1,UKK,South West,2002,15208
-NUTS1,UKK,South West,2003,16191
-NUTS1,UKK,South West,2004,17007
-NUTS1,UKK,South West,2005,17706
-NUTS1,UKK,South West,2006,18420
-NUTS1,UKK,South West,2007,19413
-NUTS1,UKK,South West,2008,19836
-NUTS1,UKK,South West,2009,19688
-NUTS1,UKK,South West,2010,20494
-NUTS1,UKK,South West,2011,20465
-NUTS1,UKK,South West,2012,20899
-NUTS1,UKK,South West,2013,21644
-NUTS1,UKK,South West,2014,22324
-Other,UK0,England,1997,13676
-Other,UK0,England,1998,14369
-Other,UK0,England,1999,14880
-Other,UK0,England,2000,15647
-Other,UK0,England,2001,16262
-Other,UK0,England,2002,17084
-Other,UK0,England,2003,18071
-Other,UK0,England,2004,18911
-Other,UK0,England,2005,19878
-Other,UK0,England,2006,20800
-Other,UK0,England,2007,21811
-Other,UK0,England,2008,22245
-Other,UK0,England,2009,21827
-Other,UK0,England,2010,22501
-Other,UK0,England,2011,23006
-Other,UK0,England,2012,23633
-Other,UK0,England,2013,24464
-Other,UK0,England,2014,25367
-NUTS1,UKL,Wales,1997,9801
-NUTS1,UKL,Wales,1998,10057
-NUTS1,UKL,Wales,1999,10385
-NUTS1,UKL,Wales,2000,10957
-NUTS1,UKL,Wales,2001,11126
-NUTS1,UKL,Wales,2002,11740
-NUTS1,UKL,Wales,2003,12615
-NUTS1,UKL,Wales,2004,13558
-NUTS1,UKL,Wales,2005,14229
-NUTS1,UKL,Wales,2006,14933
-NUTS1,UKL,Wales,2007,15522
-NUTS1,UKL,Wales,2008,15336
-NUTS1,UKL,Wales,2009,15444
-NUTS1,UKL,Wales,2010,15554
-NUTS1,UKL,Wales,2011,16215
-NUTS1,UKL,Wales,2012,16649
-NUTS1,UKL,Wales,2013,17215
-NUTS1,UKL,Wales,2014,17573
-NUTS1,UKM,Scotland,1997,12645
-NUTS1,UKM,Scotland,1998,13261
-NUTS1,UKM,Scotland,1999,13246
-NUTS1,UKM,Scotland,2000,13888
-NUTS1,UKM,Scotland,2001,14711
-NUTS1,UKM,Scotland,2002,15332
-NUTS1,UKM,Scotland,2003,16197
-NUTS1,UKM,Scotland,2004,17229
-NUTS1,UKM,Scotland,2005,18263
-NUTS1,UKM,Scotland,2006,19377
-NUTS1,UKM,Scotland,2007,20212
-NUTS1,UKM,Scotland,2008,20661
-NUTS1,UKM,Scotland,2009,20679
-NUTS1,UKM,Scotland,2010,20458
-NUTS1,UKM,Scotland,2011,20809
-NUTS1,UKM,Scotland,2012,21190
-NUTS1,UKM,Scotland,2013,22174
-NUTS1,UKM,Scotland,2014,23102
-NUTS1,UKN,Northern Ireland,1997,11135
-NUTS1,UKN,Northern Ireland,1998,11159
-NUTS1,UKN,Northern Ireland,1999,11668
-NUTS1,UKN,Northern Ireland,2000,12466
-NUTS1,UKN,Northern Ireland,2001,12840
-NUTS1,UKN,Northern Ireland,2002,13156
-NUTS1,UKN,Northern Ireland,2003,14441
-NUTS1,UKN,Northern Ireland,2004,14953
-NUTS1,UKN,Northern Ireland,2005,15823
-NUTS1,UKN,Northern Ireland,2006,16851
-NUTS1,UKN,Northern Ireland,2007,17962
-NUTS1,UKN,Northern Ireland,2008,17695
-NUTS1,UKN,Northern Ireland,2009,17076
-NUTS1,UKN,Northern Ireland,2010,17293
-NUTS1,UKN,Northern Ireland,2011,17527
-NUTS1,UKN,Northern Ireland,2012,17923
-NUTS1,UKN,Northern Ireland,2013,18329
-NUTS1,UKN,Northern Ireland,2014,18682
-UK,UK,United Kingdom,1997,13581
-UK,UK,United Kingdom,1998,14193
-UK,UK,United Kingdom,1999,14675
-UK,UK,United Kingdom,2000,15539
-UK,UK,United Kingdom,2001,16119
-UK,UK,United Kingdom,2002,16891
-UK,UK,United Kingdom,2003,17870
-UK,UK,United Kingdom,2004,18732
-UK,UK,United Kingdom,2005,19744
-UK,UK,United Kingdom,2006,20745
-UK,UK,United Kingdom,2007,21708
-UK,UK,United Kingdom,2008,22152
-UK,UK,United Kingdom,2009,21659
-UK,UK,United Kingdom,2010,22271
-UK,UK,United Kingdom,2011,22806
-UK,UK,United Kingdom,2012,23323
-UK,UK,United Kingdom,2013,24131
-UK,UK,United Kingdom,2014,24958
+NUTS1,UKI,London,1997-01-01,21293
+NUTS1,UKI,London,1998-01-01,22611
+NUTS1,UKI,London,1999-01-01,23459
+NUTS1,UKI,London,2000-01-01,25318
+NUTS1,UKI,London,2001-01-01,25812
+NUTS1,UKI,London,2002-01-01,26702
+NUTS1,UKI,London,2003-01-01,28290
+NUTS1,UKI,London,2004-01-01,29752
+NUTS1,UKI,London,2005-01-01,32007
+NUTS1,UKI,London,2006-01-01,33136
+NUTS1,UKI,London,2007-01-01,35389
+NUTS1,UKI,London,2008-01-01,36172
+NUTS1,UKI,London,2009-01-01,35577
+NUTS1,UKI,London,2010-01-01,36434
+NUTS1,UKI,London,2011-01-01,38249
+NUTS1,UKI,London,2012-01-01,39201
+NUTS1,UKI,London,2013-01-01,40516
+NUTS1,UKI,London,2014-01-01,42666
+NUTS2,UKI3,Inner London - West,1997-01-01,57479
+NUTS2,UKI3,Inner London - West,1998-01-01,61531
+NUTS2,UKI3,Inner London - West,1999-01-01,62809
+NUTS2,UKI3,Inner London - West,2000-01-01,67844
+NUTS2,UKI3,Inner London - West,2001-01-01,68829
+NUTS2,UKI3,Inner London - West,2002-01-01,70956
+NUTS2,UKI3,Inner London - West,2003-01-01,75556
+NUTS2,UKI3,Inner London - West,2004-01-01,80129
+NUTS2,UKI3,Inner London - West,2005-01-01,87395
+NUTS2,UKI3,Inner London - West,2006-01-01,91107
+NUTS2,UKI3,Inner London - West,2007-01-01,100298
+NUTS2,UKI3,Inner London - West,2008-01-01,104619
+NUTS2,UKI3,Inner London - West,2009-01-01,107460
+NUTS2,UKI3,Inner London - West,2010-01-01,111885
+NUTS2,UKI3,Inner London - West,2011-01-01,117131
+NUTS2,UKI3,Inner London - West,2012-01-01,120255
+NUTS2,UKI3,Inner London - West,2013-01-01,118051
+NUTS2,UKI3,Inner London - West,2014-01-01,123406
+NUTS3,UKI31,Camden and City of London,1997-01-01,120948
+NUTS3,UKI31,Camden and City of London,1998-01-01,128713
+NUTS3,UKI31,Camden and City of London,1999-01-01,128380
+NUTS3,UKI31,Camden and City of London,2000-01-01,139062
+NUTS3,UKI31,Camden and City of London,2001-01-01,139846
+NUTS3,UKI31,Camden and City of London,2002-01-01,146713
+NUTS3,UKI31,Camden and City of London,2003-01-01,160721
+NUTS3,UKI31,Camden and City of London,2004-01-01,173605
+NUTS3,UKI31,Camden and City of London,2005-01-01,195767
+NUTS3,UKI31,Camden and City of London,2006-01-01,207554
+NUTS3,UKI31,Camden and City of London,2007-01-01,231039
+NUTS3,UKI31,Camden and City of London,2008-01-01,234692
+NUTS3,UKI31,Camden and City of London,2009-01-01,247730
+NUTS3,UKI31,Camden and City of London,2010-01-01,256898
+NUTS3,UKI31,Camden and City of London,2011-01-01,266224
+NUTS3,UKI31,Camden and City of London,2012-01-01,265387
+NUTS3,UKI31,Camden and City of London,2013-01-01,255906
+NUTS3,UKI31,Camden and City of London,2014-01-01,263789
+NUTS3,UKI32,Westminster,1997-01-01,104531
+NUTS3,UKI32,Westminster,1998-01-01,112165
+NUTS3,UKI32,Westminster,1999-01-01,115282
+NUTS3,UKI32,Westminster,2000-01-01,122979
+NUTS3,UKI32,Westminster,2001-01-01,124865
+NUTS3,UKI32,Westminster,2002-01-01,126475
+NUTS3,UKI32,Westminster,2003-01-01,132010
+NUTS3,UKI32,Westminster,2004-01-01,136785
+NUTS3,UKI32,Westminster,2005-01-01,143419
+NUTS3,UKI32,Westminster,2006-01-01,148301
+NUTS3,UKI32,Westminster,2007-01-01,163334
+NUTS3,UKI32,Westminster,2008-01-01,177671
+NUTS3,UKI32,Westminster,2009-01-01,183802
+NUTS3,UKI32,Westminster,2010-01-01,190519
+NUTS3,UKI32,Westminster,2011-01-01,199377
+NUTS3,UKI32,Westminster,2012-01-01,203079
+NUTS3,UKI32,Westminster,2013-01-01,202737
+NUTS3,UKI32,Westminster,2014-01-01,208475
+NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,1997-01-01,25102
+NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,1998-01-01,27518
+NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,1999-01-01,28355
+NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2000-01-01,30299
+NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2001-01-01,30668
+NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2002-01-01,31395
+NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2003-01-01,32805
+NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2004-01-01,34296
+NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2005-01-01,36284
+NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2006-01-01,37336
+NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2007-01-01,40729
+NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2008-01-01,43108
+NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2009-01-01,41909
+NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2010-01-01,44987
+NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2011-01-01,46967
+NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2012-01-01,49696
+NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2013-01-01,47314
+NUTS3,UKI33,Kensington & Chelsea and Hammersmith & Fulham,2014-01-01,50018
+NUTS3,UKI34,Wandsworth,1997-01-01,14850
+NUTS3,UKI34,Wandsworth,1998-01-01,15803
+NUTS3,UKI34,Wandsworth,1999-01-01,16646
+NUTS3,UKI34,Wandsworth,2000-01-01,18068
+NUTS3,UKI34,Wandsworth,2001-01-01,18601
+NUTS3,UKI34,Wandsworth,2002-01-01,19040
+NUTS3,UKI34,Wandsworth,2003-01-01,19506
+NUTS3,UKI34,Wandsworth,2004-01-01,20121
+NUTS3,UKI34,Wandsworth,2005-01-01,21417
+NUTS3,UKI34,Wandsworth,2006-01-01,21948
+NUTS3,UKI34,Wandsworth,2007-01-01,23644
+NUTS3,UKI34,Wandsworth,2008-01-01,25115
+NUTS3,UKI34,Wandsworth,2009-01-01,23743
+NUTS3,UKI34,Wandsworth,2010-01-01,24488
+NUTS3,UKI34,Wandsworth,2011-01-01,25898
+NUTS3,UKI34,Wandsworth,2012-01-01,27490
+NUTS3,UKI34,Wandsworth,2013-01-01,26955
+NUTS3,UKI34,Wandsworth,2014-01-01,29232
+NUTS2,UKI4,Inner London - East,1997-01-01,21824
+NUTS2,UKI4,Inner London - East,1998-01-01,22591
+NUTS2,UKI4,Inner London - East,1999-01-01,23264
+NUTS2,UKI4,Inner London - East,2000-01-01,25517
+NUTS2,UKI4,Inner London - East,2001-01-01,26174
+NUTS2,UKI4,Inner London - East,2002-01-01,26898
+NUTS2,UKI4,Inner London - East,2003-01-01,28704
+NUTS2,UKI4,Inner London - East,2004-01-01,30565
+NUTS2,UKI4,Inner London - East,2005-01-01,33473
+NUTS2,UKI4,Inner London - East,2006-01-01,34443
+NUTS2,UKI4,Inner London - East,2007-01-01,36870
+NUTS2,UKI4,Inner London - East,2008-01-01,37067
+NUTS2,UKI4,Inner London - East,2009-01-01,36227
+NUTS2,UKI4,Inner London - East,2010-01-01,36314
+NUTS2,UKI4,Inner London - East,2011-01-01,39213
+NUTS2,UKI4,Inner London - East,2012-01-01,39409
+NUTS2,UKI4,Inner London - East,2013-01-01,44156
+NUTS2,UKI4,Inner London - East,2014-01-01,46793
+NUTS3,UKI41,Hackney and Newham,1997-01-01,13901
+NUTS3,UKI41,Hackney and Newham,1998-01-01,14363
+NUTS3,UKI41,Hackney and Newham,1999-01-01,14720
+NUTS3,UKI41,Hackney and Newham,2000-01-01,15947
+NUTS3,UKI41,Hackney and Newham,2001-01-01,16337
+NUTS3,UKI41,Hackney and Newham,2002-01-01,16581
+NUTS3,UKI41,Hackney and Newham,2003-01-01,17317
+NUTS3,UKI41,Hackney and Newham,2004-01-01,18219
+NUTS3,UKI41,Hackney and Newham,2005-01-01,19630
+NUTS3,UKI41,Hackney and Newham,2006-01-01,20103
+NUTS3,UKI41,Hackney and Newham,2007-01-01,21139
+NUTS3,UKI41,Hackney and Newham,2008-01-01,20556
+NUTS3,UKI41,Hackney and Newham,2009-01-01,20607
+NUTS3,UKI41,Hackney and Newham,2010-01-01,20721
+NUTS3,UKI41,Hackney and Newham,2011-01-01,22114
+NUTS3,UKI41,Hackney and Newham,2012-01-01,23020
+NUTS3,UKI41,Hackney and Newham,2013-01-01,25164
+NUTS3,UKI41,Hackney and Newham,2014-01-01,26391
+NUTS3,UKI42,Tower Hamlets,1997-01-01,54752
+NUTS3,UKI42,Tower Hamlets,1998-01-01,54837
+NUTS3,UKI42,Tower Hamlets,1999-01-01,54670
+NUTS3,UKI42,Tower Hamlets,2000-01-01,59921
+NUTS3,UKI42,Tower Hamlets,2001-01-01,60421
+NUTS3,UKI42,Tower Hamlets,2002-01-01,61727
+NUTS3,UKI42,Tower Hamlets,2003-01-01,67405
+NUTS3,UKI42,Tower Hamlets,2004-01-01,74349
+NUTS3,UKI42,Tower Hamlets,2005-01-01,85527
+NUTS3,UKI42,Tower Hamlets,2006-01-01,89319
+NUTS3,UKI42,Tower Hamlets,2007-01-01,96648
+NUTS3,UKI42,Tower Hamlets,2008-01-01,90628
+NUTS3,UKI42,Tower Hamlets,2009-01-01,91183
+NUTS3,UKI42,Tower Hamlets,2010-01-01,86819
+NUTS3,UKI42,Tower Hamlets,2011-01-01,100349
+NUTS3,UKI42,Tower Hamlets,2012-01-01,96833
+NUTS3,UKI42,Tower Hamlets,2013-01-01,114303
+NUTS3,UKI42,Tower Hamlets,2014-01-01,125570
+NUTS3,UKI43,Haringey and Islington,1997-01-01,24513
+NUTS3,UKI43,Haringey and Islington,1998-01-01,25801
+NUTS3,UKI43,Haringey and Islington,1999-01-01,27179
+NUTS3,UKI43,Haringey and Islington,2000-01-01,29933
+NUTS3,UKI43,Haringey and Islington,2001-01-01,30882
+NUTS3,UKI43,Haringey and Islington,2002-01-01,31572
+NUTS3,UKI43,Haringey and Islington,2003-01-01,33403
+NUTS3,UKI43,Haringey and Islington,2004-01-01,35130
+NUTS3,UKI43,Haringey and Islington,2005-01-01,37822
+NUTS3,UKI43,Haringey and Islington,2006-01-01,38464
+NUTS3,UKI43,Haringey and Islington,2007-01-01,41034
+NUTS3,UKI43,Haringey and Islington,2008-01-01,42557
+NUTS3,UKI43,Haringey and Islington,2009-01-01,40061
+NUTS3,UKI43,Haringey and Islington,2010-01-01,40495
+NUTS3,UKI43,Haringey and Islington,2011-01-01,41542
+NUTS3,UKI43,Haringey and Islington,2012-01-01,41862
+NUTS3,UKI43,Haringey and Islington,2013-01-01,46156
+NUTS3,UKI43,Haringey and Islington,2014-01-01,47760
+NUTS3,UKI44,Lewisham and Southwark,1997-01-01,17384
+NUTS3,UKI44,Lewisham and Southwark,1998-01-01,18257
+NUTS3,UKI44,Lewisham and Southwark,1999-01-01,18922
+NUTS3,UKI44,Lewisham and Southwark,2000-01-01,20822
+NUTS3,UKI44,Lewisham and Southwark,2001-01-01,21477
+NUTS3,UKI44,Lewisham and Southwark,2002-01-01,22202
+NUTS3,UKI44,Lewisham and Southwark,2003-01-01,23592
+NUTS3,UKI44,Lewisham and Southwark,2004-01-01,24591
+NUTS3,UKI44,Lewisham and Southwark,2005-01-01,26377
+NUTS3,UKI44,Lewisham and Southwark,2006-01-01,26987
+NUTS3,UKI44,Lewisham and Southwark,2007-01-01,28601
+NUTS3,UKI44,Lewisham and Southwark,2008-01-01,29517
+NUTS3,UKI44,Lewisham and Southwark,2009-01-01,28271
+NUTS3,UKI44,Lewisham and Southwark,2010-01-01,30139
+NUTS3,UKI44,Lewisham and Southwark,2011-01-01,31925
+NUTS3,UKI44,Lewisham and Southwark,2012-01-01,32498
+NUTS3,UKI44,Lewisham and Southwark,2013-01-01,34747
+NUTS3,UKI44,Lewisham and Southwark,2014-01-01,35973
+NUTS3,UKI45,Lambeth,1997-01-01,15495
+NUTS3,UKI45,Lambeth,1998-01-01,16263
+NUTS3,UKI45,Lambeth,1999-01-01,16887
+NUTS3,UKI45,Lambeth,2000-01-01,18581
+NUTS3,UKI45,Lambeth,2001-01-01,19293
+NUTS3,UKI45,Lambeth,2002-01-01,19952
+NUTS3,UKI45,Lambeth,2003-01-01,21160
+NUTS3,UKI45,Lambeth,2004-01-01,22244
+NUTS3,UKI45,Lambeth,2005-01-01,23658
+NUTS3,UKI45,Lambeth,2006-01-01,24133
+NUTS3,UKI45,Lambeth,2007-01-01,25982
+NUTS3,UKI45,Lambeth,2008-01-01,28996
+NUTS3,UKI45,Lambeth,2009-01-01,28167
+NUTS3,UKI45,Lambeth,2010-01-01,27663
+NUTS3,UKI45,Lambeth,2011-01-01,29130
+NUTS3,UKI45,Lambeth,2012-01-01,29730
+NUTS3,UKI45,Lambeth,2013-01-01,32488
+NUTS3,UKI45,Lambeth,2014-01-01,32878
+NUTS2,UKI5,Outer London - East and North East,1997-01-01,10817
+NUTS2,UKI5,Outer London - East and North East,1998-01-01,11461
+NUTS2,UKI5,Outer London - East and North East,1999-01-01,11893
+NUTS2,UKI5,Outer London - East and North East,2000-01-01,12463
+NUTS2,UKI5,Outer London - East and North East,2001-01-01,12688
+NUTS2,UKI5,Outer London - East and North East,2002-01-01,13099
+NUTS2,UKI5,Outer London - East and North East,2003-01-01,13672
+NUTS2,UKI5,Outer London - East and North East,2004-01-01,14160
+NUTS2,UKI5,Outer London - East and North East,2005-01-01,14780
+NUTS2,UKI5,Outer London - East and North East,2006-01-01,15483
+NUTS2,UKI5,Outer London - East and North East,2007-01-01,15983
+NUTS2,UKI5,Outer London - East and North East,2008-01-01,16331
+NUTS2,UKI5,Outer London - East and North East,2009-01-01,15520
+NUTS2,UKI5,Outer London - East and North East,2010-01-01,16015
+NUTS2,UKI5,Outer London - East and North East,2011-01-01,16541
+NUTS2,UKI5,Outer London - East and North East,2012-01-01,17331
+NUTS2,UKI5,Outer London - East and North East,2013-01-01,17769
+NUTS2,UKI5,Outer London - East and North East,2014-01-01,18669
+NUTS3,UKI51,Bexley and Greenwich,1997-01-01,10631
+NUTS3,UKI51,Bexley and Greenwich,1998-01-01,11289
+NUTS3,UKI51,Bexley and Greenwich,1999-01-01,11770
+NUTS3,UKI51,Bexley and Greenwich,2000-01-01,12410
+NUTS3,UKI51,Bexley and Greenwich,2001-01-01,12590
+NUTS3,UKI51,Bexley and Greenwich,2002-01-01,12983
+NUTS3,UKI51,Bexley and Greenwich,2003-01-01,13532
+NUTS3,UKI51,Bexley and Greenwich,2004-01-01,13951
+NUTS3,UKI51,Bexley and Greenwich,2005-01-01,14511
+NUTS3,UKI51,Bexley and Greenwich,2006-01-01,15234
+NUTS3,UKI51,Bexley and Greenwich,2007-01-01,15792
+NUTS3,UKI51,Bexley and Greenwich,2008-01-01,16134
+NUTS3,UKI51,Bexley and Greenwich,2009-01-01,15670
+NUTS3,UKI51,Bexley and Greenwich,2010-01-01,15985
+NUTS3,UKI51,Bexley and Greenwich,2011-01-01,16423
+NUTS3,UKI51,Bexley and Greenwich,2012-01-01,17102
+NUTS3,UKI51,Bexley and Greenwich,2013-01-01,17572
+NUTS3,UKI51,Bexley and Greenwich,2014-01-01,18068
+NUTS3,UKI52,Barking & Dagenham and Havering,1997-01-01,11520
+NUTS3,UKI52,Barking & Dagenham and Havering,1998-01-01,12159
+NUTS3,UKI52,Barking & Dagenham and Havering,1999-01-01,12545
+NUTS3,UKI52,Barking & Dagenham and Havering,2000-01-01,13020
+NUTS3,UKI52,Barking & Dagenham and Havering,2001-01-01,13287
+NUTS3,UKI52,Barking & Dagenham and Havering,2002-01-01,13641
+NUTS3,UKI52,Barking & Dagenham and Havering,2003-01-01,14210
+NUTS3,UKI52,Barking & Dagenham and Havering,2004-01-01,14743
+NUTS3,UKI52,Barking & Dagenham and Havering,2005-01-01,15479
+NUTS3,UKI52,Barking & Dagenham and Havering,2006-01-01,16250
+NUTS3,UKI52,Barking & Dagenham and Havering,2007-01-01,16765
+NUTS3,UKI52,Barking & Dagenham and Havering,2008-01-01,17441
+NUTS3,UKI52,Barking & Dagenham and Havering,2009-01-01,16596
+NUTS3,UKI52,Barking & Dagenham and Havering,2010-01-01,17530
+NUTS3,UKI52,Barking & Dagenham and Havering,2011-01-01,18072
+NUTS3,UKI52,Barking & Dagenham and Havering,2012-01-01,18736
+NUTS3,UKI52,Barking & Dagenham and Havering,2013-01-01,19135
+NUTS3,UKI52,Barking & Dagenham and Havering,2014-01-01,20027
+NUTS3,UKI53,Redbridge and Waltham Forest,1997-01-01,9032
+NUTS3,UKI53,Redbridge and Waltham Forest,1998-01-01,9555
+NUTS3,UKI53,Redbridge and Waltham Forest,1999-01-01,9982
+NUTS3,UKI53,Redbridge and Waltham Forest,2000-01-01,10504
+NUTS3,UKI53,Redbridge and Waltham Forest,2001-01-01,10665
+NUTS3,UKI53,Redbridge and Waltham Forest,2002-01-01,11034
+NUTS3,UKI53,Redbridge and Waltham Forest,2003-01-01,11540
+NUTS3,UKI53,Redbridge and Waltham Forest,2004-01-01,11950
+NUTS3,UKI53,Redbridge and Waltham Forest,2005-01-01,12450
+NUTS3,UKI53,Redbridge and Waltham Forest,2006-01-01,12975
+NUTS3,UKI53,Redbridge and Waltham Forest,2007-01-01,13317
+NUTS3,UKI53,Redbridge and Waltham Forest,2008-01-01,13530
+NUTS3,UKI53,Redbridge and Waltham Forest,2009-01-01,12567
+NUTS3,UKI53,Redbridge and Waltham Forest,2010-01-01,12806
+NUTS3,UKI53,Redbridge and Waltham Forest,2011-01-01,13431
+NUTS3,UKI53,Redbridge and Waltham Forest,2012-01-01,14244
+NUTS3,UKI53,Redbridge and Waltham Forest,2013-01-01,14858
+NUTS3,UKI53,Redbridge and Waltham Forest,2014-01-01,15833
+NUTS3,UKI54,Enfield,1997-01-01,13130
+NUTS3,UKI54,Enfield,1998-01-01,13984
+NUTS3,UKI54,Enfield,1999-01-01,14378
+NUTS3,UKI54,Enfield,2000-01-01,15044
+NUTS3,UKI54,Enfield,2001-01-01,15386
+NUTS3,UKI54,Enfield,2002-01-01,15969
+NUTS3,UKI54,Enfield,2003-01-01,16712
+NUTS3,UKI54,Enfield,2004-01-01,17393
+NUTS3,UKI54,Enfield,2005-01-01,18153
+NUTS3,UKI54,Enfield,2006-01-01,19066
+NUTS3,UKI54,Enfield,2007-01-01,19745
+NUTS3,UKI54,Enfield,2008-01-01,19911
+NUTS3,UKI54,Enfield,2009-01-01,18893
+NUTS3,UKI54,Enfield,2010-01-01,19518
+NUTS3,UKI54,Enfield,2011-01-01,20011
+NUTS3,UKI54,Enfield,2012-01-01,21109
+NUTS3,UKI54,Enfield,2013-01-01,21250
+NUTS3,UKI54,Enfield,2014-01-01,22651
+NUTS2,UKI6,Outer London - South,1997-01-01,12923
+NUTS2,UKI6,Outer London - South,1998-01-01,13918
+NUTS2,UKI6,Outer London - South,1999-01-01,14567
+NUTS2,UKI6,Outer London - South,2000-01-01,15359
+NUTS2,UKI6,Outer London - South,2001-01-01,15514
+NUTS2,UKI6,Outer London - South,2002-01-01,16272
+NUTS2,UKI6,Outer London - South,2003-01-01,17200
+NUTS2,UKI6,Outer London - South,2004-01-01,17869
+NUTS2,UKI6,Outer London - South,2005-01-01,18611
+NUTS2,UKI6,Outer London - South,2006-01-01,19575
+NUTS2,UKI6,Outer London - South,2007-01-01,20487
+NUTS2,UKI6,Outer London - South,2008-01-01,20593
+NUTS2,UKI6,Outer London - South,2009-01-01,19412
+NUTS2,UKI6,Outer London - South,2010-01-01,19884
+NUTS2,UKI6,Outer London - South,2011-01-01,20195
+NUTS2,UKI6,Outer London - South,2012-01-01,20780
+NUTS2,UKI6,Outer London - South,2013-01-01,20999
+NUTS2,UKI6,Outer London - South,2014-01-01,22559
+NUTS3,UKI61,Bromley,1997-01-01,13101
+NUTS3,UKI61,Bromley,1998-01-01,14235
+NUTS3,UKI61,Bromley,1999-01-01,14777
+NUTS3,UKI61,Bromley,2000-01-01,15570
+NUTS3,UKI61,Bromley,2001-01-01,15921
+NUTS3,UKI61,Bromley,2002-01-01,16675
+NUTS3,UKI61,Bromley,2003-01-01,17636
+NUTS3,UKI61,Bromley,2004-01-01,18405
+NUTS3,UKI61,Bromley,2005-01-01,19185
+NUTS3,UKI61,Bromley,2006-01-01,20237
+NUTS3,UKI61,Bromley,2007-01-01,21152
+NUTS3,UKI61,Bromley,2008-01-01,19589
+NUTS3,UKI61,Bromley,2009-01-01,19083
+NUTS3,UKI61,Bromley,2010-01-01,19001
+NUTS3,UKI61,Bromley,2011-01-01,19212
+NUTS3,UKI61,Bromley,2012-01-01,20027
+NUTS3,UKI61,Bromley,2013-01-01,20199
+NUTS3,UKI61,Bromley,2014-01-01,21867
+NUTS3,UKI62,Croydon,1997-01-01,12804
+NUTS3,UKI62,Croydon,1998-01-01,13710
+NUTS3,UKI62,Croydon,1999-01-01,14424
+NUTS3,UKI62,Croydon,2000-01-01,15150
+NUTS3,UKI62,Croydon,2001-01-01,15333
+NUTS3,UKI62,Croydon,2002-01-01,16185
+NUTS3,UKI62,Croydon,2003-01-01,17157
+NUTS3,UKI62,Croydon,2004-01-01,17831
+NUTS3,UKI62,Croydon,2005-01-01,18625
+NUTS3,UKI62,Croydon,2006-01-01,19654
+NUTS3,UKI62,Croydon,2007-01-01,20541
+NUTS3,UKI62,Croydon,2008-01-01,20653
+NUTS3,UKI62,Croydon,2009-01-01,18752
+NUTS3,UKI62,Croydon,2010-01-01,18715
+NUTS3,UKI62,Croydon,2011-01-01,18236
+NUTS3,UKI62,Croydon,2012-01-01,18273
+NUTS3,UKI62,Croydon,2013-01-01,18232
+NUTS3,UKI62,Croydon,2014-01-01,19931
+NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",1997-01-01,12897
+NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",1998-01-01,13873
+NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",1999-01-01,14538
+NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2000-01-01,15372
+NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2001-01-01,15399
+NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2002-01-01,16099
+NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2003-01-01,16978
+NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2004-01-01,17587
+NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2005-01-01,18276
+NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2006-01-01,19149
+NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2007-01-01,20075
+NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2008-01-01,21124
+NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2009-01-01,20025
+NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2010-01-01,21148
+NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2011-01-01,22041
+NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2012-01-01,22856
+NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2013-01-01,23270
+NUTS3,UKI63,"Merton, Kingston upon Thames and Sutton",2014-01-01,24677
+NUTS2,UKI7,Outer London - West and North West,1997-01-01,15860
+NUTS2,UKI7,Outer London - West and North West,1998-01-01,17120
+NUTS2,UKI7,Outer London - West and North West,1999-01-01,18023
+NUTS2,UKI7,Outer London - West and North West,2000-01-01,19030
+NUTS2,UKI7,Outer London - West and North West,2001-01-01,18952
+NUTS2,UKI7,Outer London - West and North West,2002-01-01,19615
+NUTS2,UKI7,Outer London - West and North West,2003-01-01,20469
+NUTS2,UKI7,Outer London - West and North West,2004-01-01,20930
+NUTS2,UKI7,Outer London - West and North West,2005-01-01,21658
+NUTS2,UKI7,Outer London - West and North West,2006-01-01,22167
+NUTS2,UKI7,Outer London - West and North West,2007-01-01,22948
+NUTS2,UKI7,Outer London - West and North West,2008-01-01,23712
+NUTS2,UKI7,Outer London - West and North West,2009-01-01,22295
+NUTS2,UKI7,Outer London - West and North West,2010-01-01,23006
+NUTS2,UKI7,Outer London - West and North West,2011-01-01,24051
+NUTS2,UKI7,Outer London - West and North West,2012-01-01,25326
+NUTS2,UKI7,Outer London - West and North West,2013-01-01,26429
+NUTS2,UKI7,Outer London - West and North West,2014-01-01,27726
+NUTS3,UKI71,Barnet,1997-01-01,11893
+NUTS3,UKI71,Barnet,1998-01-01,12755
+NUTS3,UKI71,Barnet,1999-01-01,13324
+NUTS3,UKI71,Barnet,2000-01-01,14143
+NUTS3,UKI71,Barnet,2001-01-01,14074
+NUTS3,UKI71,Barnet,2002-01-01,14755
+NUTS3,UKI71,Barnet,2003-01-01,15485
+NUTS3,UKI71,Barnet,2004-01-01,15885
+NUTS3,UKI71,Barnet,2005-01-01,16439
+NUTS3,UKI71,Barnet,2006-01-01,17065
+NUTS3,UKI71,Barnet,2007-01-01,17754
+NUTS3,UKI71,Barnet,2008-01-01,18713
+NUTS3,UKI71,Barnet,2009-01-01,18557
+NUTS3,UKI71,Barnet,2010-01-01,19097
+NUTS3,UKI71,Barnet,2011-01-01,19950
+NUTS3,UKI71,Barnet,2012-01-01,20238
+NUTS3,UKI71,Barnet,2013-01-01,20401
+NUTS3,UKI71,Barnet,2014-01-01,21659
+NUTS3,UKI72,Brent,1997-01-01,13968
+NUTS3,UKI72,Brent,1998-01-01,14680
+NUTS3,UKI72,Brent,1999-01-01,15459
+NUTS3,UKI72,Brent,2000-01-01,16271
+NUTS3,UKI72,Brent,2001-01-01,16022
+NUTS3,UKI72,Brent,2002-01-01,16565
+NUTS3,UKI72,Brent,2003-01-01,17046
+NUTS3,UKI72,Brent,2004-01-01,17508
+NUTS3,UKI72,Brent,2005-01-01,18614
+NUTS3,UKI72,Brent,2006-01-01,18735
+NUTS3,UKI72,Brent,2007-01-01,19097
+NUTS3,UKI72,Brent,2008-01-01,19681
+NUTS3,UKI72,Brent,2009-01-01,18673
+NUTS3,UKI72,Brent,2010-01-01,19362
+NUTS3,UKI72,Brent,2011-01-01,20199
+NUTS3,UKI72,Brent,2012-01-01,21948
+NUTS3,UKI72,Brent,2013-01-01,22414
+NUTS3,UKI72,Brent,2014-01-01,23144
+NUTS3,UKI73,Ealing,1997-01-01,14540
+NUTS3,UKI73,Ealing,1998-01-01,15613
+NUTS3,UKI73,Ealing,1999-01-01,16282
+NUTS3,UKI73,Ealing,2000-01-01,17034
+NUTS3,UKI73,Ealing,2001-01-01,16969
+NUTS3,UKI73,Ealing,2002-01-01,17402
+NUTS3,UKI73,Ealing,2003-01-01,18125
+NUTS3,UKI73,Ealing,2004-01-01,18494
+NUTS3,UKI73,Ealing,2005-01-01,19115
+NUTS3,UKI73,Ealing,2006-01-01,19630
+NUTS3,UKI73,Ealing,2007-01-01,20297
+NUTS3,UKI73,Ealing,2008-01-01,20311
+NUTS3,UKI73,Ealing,2009-01-01,18781
+NUTS3,UKI73,Ealing,2010-01-01,19558
+NUTS3,UKI73,Ealing,2011-01-01,21661
+NUTS3,UKI73,Ealing,2012-01-01,22702
+NUTS3,UKI73,Ealing,2013-01-01,23519
+NUTS3,UKI73,Ealing,2014-01-01,25416
+NUTS3,UKI74,Harrow and Hillingdon,1997-01-01,19471
+NUTS3,UKI74,Harrow and Hillingdon,1998-01-01,21170
+NUTS3,UKI74,Harrow and Hillingdon,1999-01-01,22384
+NUTS3,UKI74,Harrow and Hillingdon,2000-01-01,23540
+NUTS3,UKI74,Harrow and Hillingdon,2001-01-01,23653
+NUTS3,UKI74,Harrow and Hillingdon,2002-01-01,24347
+NUTS3,UKI74,Harrow and Hillingdon,2003-01-01,25466
+NUTS3,UKI74,Harrow and Hillingdon,2004-01-01,26029
+NUTS3,UKI74,Harrow and Hillingdon,2005-01-01,26804
+NUTS3,UKI74,Harrow and Hillingdon,2006-01-01,27293
+NUTS3,UKI74,Harrow and Hillingdon,2007-01-01,28230
+NUTS3,UKI74,Harrow and Hillingdon,2008-01-01,28539
+NUTS3,UKI74,Harrow and Hillingdon,2009-01-01,26479
+NUTS3,UKI74,Harrow and Hillingdon,2010-01-01,27193
+NUTS3,UKI74,Harrow and Hillingdon,2011-01-01,27545
+NUTS3,UKI74,Harrow and Hillingdon,2012-01-01,28829
+NUTS3,UKI74,Harrow and Hillingdon,2013-01-01,30393
+NUTS3,UKI74,Harrow and Hillingdon,2014-01-01,31686
+NUTS3,UKI75,Hounslow and Richmond upon Thames,1997-01-01,17056
+NUTS3,UKI75,Hounslow and Richmond upon Thames,1998-01-01,18696
+NUTS3,UKI75,Hounslow and Richmond upon Thames,1999-01-01,19811
+NUTS3,UKI75,Hounslow and Richmond upon Thames,2000-01-01,21170
+NUTS3,UKI75,Hounslow and Richmond upon Thames,2001-01-01,21042
+NUTS3,UKI75,Hounslow and Richmond upon Thames,2002-01-01,21885
+NUTS3,UKI75,Hounslow and Richmond upon Thames,2003-01-01,22848
+NUTS3,UKI75,Hounslow and Richmond upon Thames,2004-01-01,23279
+NUTS3,UKI75,Hounslow and Richmond upon Thames,2005-01-01,23872
+NUTS3,UKI75,Hounslow and Richmond upon Thames,2006-01-01,24570
+NUTS3,UKI75,Hounslow and Richmond upon Thames,2007-01-01,25644
+NUTS3,UKI75,Hounslow and Richmond upon Thames,2008-01-01,27520
+NUTS3,UKI75,Hounslow and Richmond upon Thames,2009-01-01,25670
+NUTS3,UKI75,Hounslow and Richmond upon Thames,2010-01-01,26483
+NUTS3,UKI75,Hounslow and Richmond upon Thames,2011-01-01,27842
+NUTS3,UKI75,Hounslow and Richmond upon Thames,2012-01-01,29726
+NUTS3,UKI75,Hounslow and Richmond upon Thames,2013-01-01,31704
+NUTS3,UKI75,Hounslow and Richmond upon Thames,2014-01-01,32955
+NUTS1,UKC,North East,1997-01-01,9734
+NUTS1,UKC,North East,1998-01-01,10091
+NUTS1,UKC,North East,1999-01-01,10478
+NUTS1,UKC,North East,2000-01-01,10849
+NUTS1,UKC,North East,2001-01-01,11376
+NUTS1,UKC,North East,2002-01-01,12214
+NUTS1,UKC,North East,2003-01-01,13055
+NUTS1,UKC,North East,2004-01-01,14134
+NUTS1,UKC,North East,2005-01-01,14900
+NUTS1,UKC,North East,2006-01-01,15722
+NUTS1,UKC,North East,2007-01-01,16159
+NUTS1,UKC,North East,2008-01-01,16461
+NUTS1,UKC,North East,2009-01-01,16082
+NUTS1,UKC,North East,2010-01-01,16453
+NUTS1,UKC,North East,2011-01-01,16866
+NUTS1,UKC,North East,2012-01-01,17225
+NUTS1,UKC,North East,2013-01-01,17697
+NUTS1,UKC,North East,2014-01-01,18216
+NUTS1,UKD,North West,1997-01-01,11401
+NUTS1,UKD,North West,1998-01-01,12034
+NUTS1,UKD,North West,1999-01-01,12581
+NUTS1,UKD,North West,2000-01-01,12821
+NUTS1,UKD,North West,2001-01-01,13626
+NUTS1,UKD,North West,2002-01-01,14467
+NUTS1,UKD,North West,2003-01-01,15277
+NUTS1,UKD,North West,2004-01-01,16224
+NUTS1,UKD,North West,2005-01-01,16845
+NUTS1,UKD,North West,2006-01-01,17935
+NUTS1,UKD,North West,2007-01-01,18662
+NUTS1,UKD,North West,2008-01-01,18929
+NUTS1,UKD,North West,2009-01-01,18788
+NUTS1,UKD,North West,2010-01-01,19218
+NUTS1,UKD,North West,2011-01-01,19036
+NUTS1,UKD,North West,2012-01-01,19627
+NUTS1,UKD,North West,2013-01-01,20455
+NUTS1,UKD,North West,2014-01-01,21011
+NUTS1,UKE,Yorkshire and The Humber,1997-01-01,11320
+NUTS1,UKE,Yorkshire and The Humber,1998-01-01,11839
+NUTS1,UKE,Yorkshire and The Humber,1999-01-01,11985
+NUTS1,UKE,Yorkshire and The Humber,2000-01-01,12473
+NUTS1,UKE,Yorkshire and The Humber,2001-01-01,12948
+NUTS1,UKE,Yorkshire and The Humber,2002-01-01,13905
+NUTS1,UKE,Yorkshire and The Humber,2003-01-01,14899
+NUTS1,UKE,Yorkshire and The Humber,2004-01-01,15785
+NUTS1,UKE,Yorkshire and The Humber,2005-01-01,16439
+NUTS1,UKE,Yorkshire and The Humber,2006-01-01,17217
+NUTS1,UKE,Yorkshire and The Humber,2007-01-01,18212
+NUTS1,UKE,Yorkshire and The Humber,2008-01-01,18303
+NUTS1,UKE,Yorkshire and The Humber,2009-01-01,18161
+NUTS1,UKE,Yorkshire and The Humber,2010-01-01,18296
+NUTS1,UKE,Yorkshire and The Humber,2011-01-01,18567
+NUTS1,UKE,Yorkshire and The Humber,2012-01-01,18841
+NUTS1,UKE,Yorkshire and The Humber,2013-01-01,19314
+NUTS1,UKE,Yorkshire and The Humber,2014-01-01,19863
+NUTS1,UKF,East Midlands,1997-01-01,11985
+NUTS1,UKF,East Midlands,1998-01-01,12300
+NUTS1,UKF,East Midlands,1999-01-01,12466
+NUTS1,UKF,East Midlands,2000-01-01,12900
+NUTS1,UKF,East Midlands,2001-01-01,13414
+NUTS1,UKF,East Midlands,2002-01-01,13956
+NUTS1,UKF,East Midlands,2003-01-01,14850
+NUTS1,UKF,East Midlands,2004-01-01,15391
+NUTS1,UKF,East Midlands,2005-01-01,16291
+NUTS1,UKF,East Midlands,2006-01-01,17096
+NUTS1,UKF,East Midlands,2007-01-01,17866
+NUTS1,UKF,East Midlands,2008-01-01,18115
+NUTS1,UKF,East Midlands,2009-01-01,17504
+NUTS1,UKF,East Midlands,2010-01-01,18329
+NUTS1,UKF,East Midlands,2011-01-01,18764
+NUTS1,UKF,East Midlands,2012-01-01,19087
+NUTS1,UKF,East Midlands,2013-01-01,19902
+NUTS1,UKF,East Midlands,2014-01-01,20524
+NUTS1,UKG,West Midlands,1997-01-01,12011
+NUTS1,UKG,West Midlands,1998-01-01,12663
+NUTS1,UKG,West Midlands,1999-01-01,13215
+NUTS1,UKG,West Midlands,2000-01-01,13490
+NUTS1,UKG,West Midlands,2001-01-01,13878
+NUTS1,UKG,West Midlands,2002-01-01,14461
+NUTS1,UKG,West Midlands,2003-01-01,15179
+NUTS1,UKG,West Midlands,2004-01-01,15996
+NUTS1,UKG,West Midlands,2005-01-01,16596
+NUTS1,UKG,West Midlands,2006-01-01,17329
+NUTS1,UKG,West Midlands,2007-01-01,17826
+NUTS1,UKG,West Midlands,2008-01-01,17936
+NUTS1,UKG,West Midlands,2009-01-01,17241
+NUTS1,UKG,West Midlands,2010-01-01,17951
+NUTS1,UKG,West Midlands,2011-01-01,18404
+NUTS1,UKG,West Midlands,2012-01-01,18960
+NUTS1,UKG,West Midlands,2013-01-01,19630
+NUTS1,UKG,West Midlands,2014-01-01,20086
+NUTS1,UKH,East of England,1997-01-01,13285
+NUTS1,UKH,East of England,1998-01-01,13856
+NUTS1,UKH,East of England,1999-01-01,14178
+NUTS1,UKH,East of England,2000-01-01,15086
+NUTS1,UKH,East of England,2001-01-01,15731
+NUTS1,UKH,East of England,2002-01-01,16414
+NUTS1,UKH,East of England,2003-01-01,17539
+NUTS1,UKH,East of England,2004-01-01,18060
+NUTS1,UKH,East of England,2005-01-01,18830
+NUTS1,UKH,East of England,2006-01-01,19870
+NUTS1,UKH,East of England,2007-01-01,20467
+NUTS1,UKH,East of England,2008-01-01,21067
+NUTS1,UKH,East of England,2009-01-01,20369
+NUTS1,UKH,East of England,2010-01-01,20873
+NUTS1,UKH,East of England,2011-01-01,21090
+NUTS1,UKH,East of England,2012-01-01,21528
+NUTS1,UKH,East of England,2013-01-01,22137
+NUTS1,UKH,East of England,2014-01-01,23063
+NUTS1,UKJ,South East,1997-01-01,14698
+NUTS1,UKJ,South East,1998-01-01,15580
+NUTS1,UKJ,South East,1999-01-01,16256
+NUTS1,UKJ,South East,2000-01-01,17152
+NUTS1,UKJ,South East,2001-01-01,17892
+NUTS1,UKJ,South East,2002-01-01,18969
+NUTS1,UKJ,South East,2003-01-01,19750
+NUTS1,UKJ,South East,2004-01-01,20231
+NUTS1,UKJ,South East,2005-01-01,21089
+NUTS1,UKJ,South East,2006-01-01,21981
+NUTS1,UKJ,South East,2007-01-01,22953
+NUTS1,UKJ,South East,2008-01-01,23539
+NUTS1,UKJ,South East,2009-01-01,23032
+NUTS1,UKJ,South East,2010-01-01,23972
+NUTS1,UKJ,South East,2011-01-01,24410
+NUTS1,UKJ,South East,2012-01-01,25396
+NUTS1,UKJ,South East,2013-01-01,26276
+NUTS1,UKJ,South East,2014-01-01,27012
+NUTS1,UKK,South West,1997-01-01,12350
+NUTS1,UKK,South West,1998-01-01,12680
+NUTS1,UKK,South West,1999-01-01,13113
+NUTS1,UKK,South West,2000-01-01,13795
+NUTS1,UKK,South West,2001-01-01,14469
+NUTS1,UKK,South West,2002-01-01,15208
+NUTS1,UKK,South West,2003-01-01,16191
+NUTS1,UKK,South West,2004-01-01,17007
+NUTS1,UKK,South West,2005-01-01,17706
+NUTS1,UKK,South West,2006-01-01,18420
+NUTS1,UKK,South West,2007-01-01,19413
+NUTS1,UKK,South West,2008-01-01,19836
+NUTS1,UKK,South West,2009-01-01,19688
+NUTS1,UKK,South West,2010-01-01,20494
+NUTS1,UKK,South West,2011-01-01,20465
+NUTS1,UKK,South West,2012-01-01,20899
+NUTS1,UKK,South West,2013-01-01,21644
+NUTS1,UKK,South West,2014-01-01,22324
+Other,UK0,England,1997-01-01,13676
+Other,UK0,England,1998-01-01,14369
+Other,UK0,England,1999-01-01,14880
+Other,UK0,England,2000-01-01,15647
+Other,UK0,England,2001-01-01,16262
+Other,UK0,England,2002-01-01,17084
+Other,UK0,England,2003-01-01,18071
+Other,UK0,England,2004-01-01,18911
+Other,UK0,England,2005-01-01,19878
+Other,UK0,England,2006-01-01,20800
+Other,UK0,England,2007-01-01,21811
+Other,UK0,England,2008-01-01,22245
+Other,UK0,England,2009-01-01,21827
+Other,UK0,England,2010-01-01,22501
+Other,UK0,England,2011-01-01,23006
+Other,UK0,England,2012-01-01,23633
+Other,UK0,England,2013-01-01,24464
+Other,UK0,England,2014-01-01,25367
+NUTS1,UKL,Wales,1997-01-01,9801
+NUTS1,UKL,Wales,1998-01-01,10057
+NUTS1,UKL,Wales,1999-01-01,10385
+NUTS1,UKL,Wales,2000-01-01,10957
+NUTS1,UKL,Wales,2001-01-01,11126
+NUTS1,UKL,Wales,2002-01-01,11740
+NUTS1,UKL,Wales,2003-01-01,12615
+NUTS1,UKL,Wales,2004-01-01,13558
+NUTS1,UKL,Wales,2005-01-01,14229
+NUTS1,UKL,Wales,2006-01-01,14933
+NUTS1,UKL,Wales,2007-01-01,15522
+NUTS1,UKL,Wales,2008-01-01,15336
+NUTS1,UKL,Wales,2009-01-01,15444
+NUTS1,UKL,Wales,2010-01-01,15554
+NUTS1,UKL,Wales,2011-01-01,16215
+NUTS1,UKL,Wales,2012-01-01,16649
+NUTS1,UKL,Wales,2013-01-01,17215
+NUTS1,UKL,Wales,2014-01-01,17573
+NUTS1,UKM,Scotland,1997-01-01,12645
+NUTS1,UKM,Scotland,1998-01-01,13261
+NUTS1,UKM,Scotland,1999-01-01,13246
+NUTS1,UKM,Scotland,2000-01-01,13888
+NUTS1,UKM,Scotland,2001-01-01,14711
+NUTS1,UKM,Scotland,2002-01-01,15332
+NUTS1,UKM,Scotland,2003-01-01,16197
+NUTS1,UKM,Scotland,2004-01-01,17229
+NUTS1,UKM,Scotland,2005-01-01,18263
+NUTS1,UKM,Scotland,2006-01-01,19377
+NUTS1,UKM,Scotland,2007-01-01,20212
+NUTS1,UKM,Scotland,2008-01-01,20661
+NUTS1,UKM,Scotland,2009-01-01,20679
+NUTS1,UKM,Scotland,2010-01-01,20458
+NUTS1,UKM,Scotland,2011-01-01,20809
+NUTS1,UKM,Scotland,2012-01-01,21190
+NUTS1,UKM,Scotland,2013-01-01,22174
+NUTS1,UKM,Scotland,2014-01-01,23102
+NUTS1,UKN,Northern Ireland,1997-01-01,11135
+NUTS1,UKN,Northern Ireland,1998-01-01,11159
+NUTS1,UKN,Northern Ireland,1999-01-01,11668
+NUTS1,UKN,Northern Ireland,2000-01-01,12466
+NUTS1,UKN,Northern Ireland,2001-01-01,12840
+NUTS1,UKN,Northern Ireland,2002-01-01,13156
+NUTS1,UKN,Northern Ireland,2003-01-01,14441
+NUTS1,UKN,Northern Ireland,2004-01-01,14953
+NUTS1,UKN,Northern Ireland,2005-01-01,15823
+NUTS1,UKN,Northern Ireland,2006-01-01,16851
+NUTS1,UKN,Northern Ireland,2007-01-01,17962
+NUTS1,UKN,Northern Ireland,2008-01-01,17695
+NUTS1,UKN,Northern Ireland,2009-01-01,17076
+NUTS1,UKN,Northern Ireland,2010-01-01,17293
+NUTS1,UKN,Northern Ireland,2011-01-01,17527
+NUTS1,UKN,Northern Ireland,2012-01-01,17923
+NUTS1,UKN,Northern Ireland,2013-01-01,18329
+NUTS1,UKN,Northern Ireland,2014-01-01,18682
+UK,UK,United Kingdom,1997-01-01,13581
+UK,UK,United Kingdom,1998-01-01,14193
+UK,UK,United Kingdom,1999-01-01,14675
+UK,UK,United Kingdom,2000-01-01,15539
+UK,UK,United Kingdom,2001-01-01,16119
+UK,UK,United Kingdom,2002-01-01,16891
+UK,UK,United Kingdom,2003-01-01,17870
+UK,UK,United Kingdom,2004-01-01,18732
+UK,UK,United Kingdom,2005-01-01,19744
+UK,UK,United Kingdom,2006-01-01,20745
+UK,UK,United Kingdom,2007-01-01,21708
+UK,UK,United Kingdom,2008-01-01,22152
+UK,UK,United Kingdom,2009-01-01,21659
+UK,UK,United Kingdom,2010-01-01,22271
+UK,UK,United Kingdom,2011-01-01,22806
+UK,UK,United Kingdom,2012-01-01,23323
+UK,UK,United Kingdom,2013-01-01,24131
+UK,UK,United Kingdom,2014-01-01,24958

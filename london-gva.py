@@ -30,28 +30,28 @@ def remove_duplicates(rows):
         yield row
 
 unpivot_fields = [
-    {'name': '1997', 'keys': {'Year': '1997'}},
-    {'name': '1998', 'keys': {'Year': '1998'}},
-    {'name': '1999', 'keys': {'Year': '1999'}},
-    {'name': '2000', 'keys': {'Year': '2000'}},
-    {'name': '2001', 'keys': {'Year': '2001'}},
-    {'name': '2002', 'keys': {'Year': '2002'}},
-    {'name': '2003', 'keys': {'Year': '2003'}},
-    {'name': '2004', 'keys': {'Year': '2004'}},
-    {'name': '2005', 'keys': {'Year': '2005'}},
-    {'name': '2006', 'keys': {'Year': '2006'}},
-    {'name': '2007', 'keys': {'Year': '2007'}},
-    {'name': '2008', 'keys': {'Year': '2008'}},
-    {'name': '2009', 'keys': {'Year': '2009'}},
-    {'name': '2010', 'keys': {'Year': '2010'}},
-    {'name': '2011', 'keys': {'Year': '2011'}},
-    {'name': '2012', 'keys': {'Year': '2012'}},
-    {'name': '2013', 'keys': {'Year': '2013'}},
-    {'name': '20143', 'keys': {'Year': '2014'}}
+    {'name': '1997', 'keys': {'Year': '1997-01-01'}},
+    {'name': '1998', 'keys': {'Year': '1998-01-01'}},
+    {'name': '1999', 'keys': {'Year': '1999-01-01'}},
+    {'name': '2000', 'keys': {'Year': '2000-01-01'}},
+    {'name': '2001', 'keys': {'Year': '2001-01-01'}},
+    {'name': '2002', 'keys': {'Year': '2002-01-01'}},
+    {'name': '2003', 'keys': {'Year': '2003-01-01'}},
+    {'name': '2004', 'keys': {'Year': '2004-01-01'}},
+    {'name': '2005', 'keys': {'Year': '2005-01-01'}},
+    {'name': '2006', 'keys': {'Year': '2006-01-01'}},
+    {'name': '2007', 'keys': {'Year': '2007-01-01'}},
+    {'name': '2008', 'keys': {'Year': '2008-01-01'}},
+    {'name': '2009', 'keys': {'Year': '2009-01-01'}},
+    {'name': '2010', 'keys': {'Year': '2010-01-01'}},
+    {'name': '2011', 'keys': {'Year': '2011-01-01'}},
+    {'name': '2012', 'keys': {'Year': '2012-01-01'}},
+    {'name': '2013', 'keys': {'Year': '2013-01-01'}},
+    {'name': '20143', 'keys': {'Year': '2014-01-01'}}
 ]
 
 extra_keys = [
-    {'name': 'Year', 'type': 'year'}
+    {'name': 'Year', 'type': 'date'}
 ]
 extra_value = {'name': 'Value', 'type': 'number'}
 
