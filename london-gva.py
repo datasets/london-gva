@@ -21,6 +21,14 @@ def filter_gva(rows):
         if row['NUTS code'] is not '':
             yield row
 
+def remove_duplicates(rows):
+    seen = set()
+    for row in rows:
+        line = ''.join('{}{}'.format(key, val) for key, val in row.items())
+        if line in seen: continue
+        seen.add(line)
+        yield row
+
 unpivot_fields = [
     {'name': '1997', 'keys': {'Year': '1997'}},
     {'name': '1998', 'keys': {'Year': '1998'}},
@@ -53,6 +61,7 @@ def london_gva(link):
              sheet=3),
         filter_gva,
         unpivot(unpivot_fields, extra_keys, extra_value),
+        remove_duplicates,
         set_format_and_name,
         dump_to_path(),
         printer(num_rows=1)
