@@ -1,59 +1,10 @@
 {
-  "bytes": 63276,
-  "count_of_rows": 1584,
-  "hash": "122d38785a9da7fadd7956244ed4d1d1",
-  "name": "london-gva",
+  "bytes": 30039,
+  "count_of_rows": 738,
+  "hash": "9845252b7b218fb62f8c8cd9affa61c6",
+  "name": "gva",
   "profile": "data-package",
   "resources": [
-    {
-      "dialect": {
-        "caseSensitiveHeader": false,
-        "delimiter": ",",
-        "doubleQuote": true,
-        "header": true,
-        "lineTerminator": "\r\n",
-        "quoteChar": "\"",
-        "skipInitialSpace": false
-      },
-      "encoding": "utf-8",
-      "format": "csv",
-      "mediatype": "text/xls",
-      "name": "london-gva",
-      "path": "data/gva-london.csv",
-      "profile": "tabular-data-resource",
-      "schema": {
-        "fields": [
-          {
-            "format": "default",
-            "name": "NUTS level",
-            "type": "string"
-          },
-          {
-            "format": "default",
-            "name": "NUTS code",
-            "type": "string"
-          },
-          {
-            "format": "default",
-            "name": "Area name",
-            "type": "string"
-          },
-          {
-            "format": "default",
-            "name": "Year",
-            "type": "any"
-          },
-          {
-            "format": "default",
-            "name": "Value",
-            "type": "any"
-          }
-        ],
-        "missingValues": [
-          ""
-        ]
-      }
-    },
     {
       "dialect": {
         "caseSensitiveHeader": false,
@@ -84,18 +35,20 @@
           },
           {
             "format": "default",
-            "name": "Area name",
+            "name": "Region name",
             "type": "string"
           },
           {
             "format": "default",
             "name": "Year",
-            "type": "any"
+            "type": "year"
           },
           {
+            "decimalChar": ".",
             "format": "default",
+            "groupChar": "",
             "name": "Value",
-            "type": "any"
+            "type": "number"
           }
         ],
         "missingValues": [
@@ -104,5 +57,5 @@
       }
     }
   ],
-  "title": "London gva"
+  "title": "London Gross Value Added (GVA)"
 }
