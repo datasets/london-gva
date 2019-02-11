@@ -1,7 +1,7 @@
 {
-  "bytes": 33837,
+  "bytes": 33877,
   "count_of_rows": 720,
-  "hash": "4acf03961e440f31080ccb57d6a03a61",
+  "hash": "2f6b258c5ef42850df6108b558fd11d7",
   "name": "gva",
   "profile": "data-package",
   "resources": [
@@ -39,16 +39,14 @@
             "type": "string"
           },
           {
-            "format": "%Y-%m-%d",
+            "format": "default",
             "name": "Year",
-            "type": "date"
+            "type": "any"
           },
           {
-            "decimalChar": ".",
             "format": "default",
-            "groupChar": "",
             "name": "Value",
-            "type": "number"
+            "type": "any"
           }
         ],
         "missingValues": [
