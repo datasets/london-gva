@@ -29,7 +29,7 @@ def remove_duplicates(rows):
         seen.add(line)
         yield row
 
-unpivoting_fields = [{'name': '([0-9]{4,5})', 'keys': {'Year': '01-01-' r'\1'}}]
+unpivoting_fields = [{'name': '([0-9]{4})([0-9]{0,1})', 'keys': {'Year': '01-01-' r'\1'}}]
 
 extra_keys = [
     {'name': 'Year', 'type': 'any'}
